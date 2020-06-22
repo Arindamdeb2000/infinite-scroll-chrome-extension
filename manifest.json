@@ -10,6 +10,9 @@
         "persistent": true
     },
     "permissions": [
+        "activeTab",
+        "declarativeContent",
+        "storage",
         "contextMenus"
     ]
 }
